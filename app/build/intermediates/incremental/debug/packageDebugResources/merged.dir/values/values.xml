@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="industrial_background">#FFF7FF</color>
+    <color name="industrial_disabled">#DED6DF</color>
+    <color name="industrial_hint">#9B939E</color>
+    <color name="industrial_primary">#6B51AE</color>
+    <color name="industrial_primary_dark">#51398F</color>
+    <color name="industrial_text">#4C4651</color>
+    <string name="app_name">Cronoanálise Industrial</string>
+    <string name="finalizar_producao">Finalizar Produção</string>
+    <string name="iniciar_producao">Iniciar Produção</string>
+    <string name="linha_producao">Linha de Produção</string>
+    <string name="nova_producao">Nova Produção</string>
+    <string name="operador">Operador</string>
+    <string name="pecas_formatado">Peças: %1$d</string>
+    <string name="pecas_zero">Peças: 0</string>
+    <string name="registrar_peca">Registrar Peça</string>
+    <string name="relatorio_oee">Relatório Estatístico OEE</string>
+    <style name="Theme.CronoAnaliseIndustrial" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/industrial_primary</item>
+        <item name="colorPrimaryVariant">@color/industrial_primary_dark</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/industrial_background</item>
+        <item name="android:windowBackground">@color/industrial_background</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "br.com.cronoanaliseindustrial.app-debug-37:/layout_activity_report.xml.flat",
+        "source": "br.com.cronoanaliseindustrial.app-main-39:/layout/activity_report.xml"
+    },
+    {
+        "merged": "br.com.cronoanaliseindustrial.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "br.com.cronoanaliseindustrial.app-main-39:/layout/activity_main.xml"
+    }
+]

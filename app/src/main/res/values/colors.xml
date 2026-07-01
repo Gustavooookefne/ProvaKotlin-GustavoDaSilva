@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="industrial_background">#FFF7FF</color>
+    <color name="industrial_primary">#6B51AE</color>
+    <color name="industrial_primary_dark">#51398F</color>
+    <color name="industrial_text">#4C4651</color>
+    <color name="industrial_hint">#9B939E</color>
+    <color name="industrial_disabled">#DED6DF</color>
+</resources>

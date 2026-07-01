@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cronoanálise Industrial</string>
+    <string name="operador">Operador</string>
+    <string name="linha_producao">Linha de Produção</string>
+    <string name="pecas_zero">Peças: 0</string>
+    <string name="pecas_formatado">Peças: %1$d</string>
+    <string name="iniciar_producao">Iniciar Produção</string>
+    <string name="registrar_peca">Registrar Peça</string>
+    <string name="finalizar_producao">Finalizar Produção</string>
+    <string name="nova_producao">Nova Produção</string>
+    <string name="relatorio_oee">Relatório Estatístico OEE</string>
+</resources>

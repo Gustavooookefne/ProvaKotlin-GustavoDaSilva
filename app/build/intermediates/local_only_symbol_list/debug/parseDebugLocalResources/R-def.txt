@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color industrial_background
+color industrial_disabled
+color industrial_hint
+color industrial_primary
+color industrial_primary_dark
+color industrial_text
+id buttonFinalizar
+id buttonIniciar
+id buttonNovaProducao
+id buttonRegistrar
+id editLinha
+id editOperador
+id textPecas
+id textRelatorio
+layout activity_main
+layout activity_report
+string app_name
+string finalizar_producao
+string iniciar_producao
+string linha_producao
+string nova_producao
+string operador
+string pecas_formatado
+string pecas_zero
+string registrar_peca
+string relatorio_oee
+style Theme.CronoAnaliseIndustrial

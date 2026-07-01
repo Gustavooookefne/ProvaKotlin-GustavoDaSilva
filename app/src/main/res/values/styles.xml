@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CronoAnaliseIndustrial" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/industrial_primary</item>
+        <item name="colorPrimaryVariant">@color/industrial_primary_dark</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/industrial_background</item>
+        <item name="android:windowBackground">@color/industrial_background</item>
+    </style>
+</resources>
